@@ -21,7 +21,6 @@ Such tools:
 
 ## changelog
 ```
-
 25/09/2022:
   - initial release
 ```
