@@ -18,3 +18,22 @@ Such tools:
     - tries to connect to each ip:port combo to check if that port is open
   
   - more tools included
+
+## changelog
+```
+
+25/09/2022:
+  - initial release
+```
+
+## roadmap
+```
+Increase speed of portscanner and proxy checker
+Add support for an SSH client
+Add support for a FTP client
+Add support for automatic update checker
+Add SQL injection
+Add automatic logging
+Add more DoS attack methods
+Add cloudflare resolver & ToR link resolver
+```
